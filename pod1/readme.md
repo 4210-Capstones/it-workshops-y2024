@@ -1,4 +1,4 @@
-# [Workshop Title]
+# [Code Quality Tools]
 
 ## Workshop Description
 
