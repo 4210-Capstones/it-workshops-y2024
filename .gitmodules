@@ -1,0 +1,3 @@
+[submodule "pod9/workshop/FastAPI-Tutorial"]
+	path = pod9/workshop/FastAPI-Tutorial
+	url = git@github.com:ZalZarak/FastAPI-Tutorial.git
