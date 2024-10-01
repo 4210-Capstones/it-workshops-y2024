@@ -1,4 +1,4 @@
-# [Workshop Title]
+# Documentation
 
 ## Workshop Description
 
