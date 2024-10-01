@@ -6,19 +6,16 @@ This folder contains the core documentation and materials for the workshop. The 
 
 ### Contents of the Workshop Folder:
 
-- **Setup Guide**: Detailed instructions for setting up the environment and installing the necessary tools or software. This guide ensures that all participants can follow along with the practical exercises.
-  
-- **Practical Exercise**: The hands-on task that participants are required to complete after the workshop. It should include:
-  - Step-by-step instructions on how to perform the task.
-  - Any code or files needed to complete the exercise.
-  - Expected outcomes to verify that the exercise has been completed successfully.
-
-- **Supporting Files**: Any additional files required to complete the practical exercise (e.g., datasets, configuration files, or starter code).
+- **API_Workshop.pdf**: Explains HTTP, RESTful, and APIs. Explains FastAPI in a tutorial. Provides installation steps.
+- **FastAPI_Tutorial**: Repo with implemented tutorial and additional example project to showcase usage of FastAPI in larger projects.
+- **Slides**: Link to slides used during presentation.
 
 ### Instructions for Participants:
 
-- Follow the **Setup Guide** to prepare your environment before starting the practical exercise.
-- Complete the **Practical Exercise** as per the instructions provided.
+- Follow the PDF.
+- Install everything necessary.
+- Implement the the tutorial part and the tests (3.1 - 3.3).
+- Make sure tests are running through.
 - Submit your completed work in the appropriate `submissions/` folder as directed.
 
 ---
