@@ -2,7 +2,7 @@
 
 ## Workshop Description
 
-This workshop covers a variety of documentation tools and practices. The goal is to provide an in-depth understanding of the importance of having files that clearly document your code, so others can refactor it and follow installation instructions for any program, software, or code. We will demonstrate practical applications such as creating README files, writing commit messages, and using GitHub Pages and Wikis. Additionally, we’ll explore tools like auto-documentation and provide guidance on documenting with Sphinx. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
+ <div align="justify"> This workshop covers a variety of documentation tools and practices. The goal is to provide an in-depth understanding of the importance of having files that clearly document your code, so others can refactor it and follow installation instructions for any program, software, or code. We will demonstrate practical applications such as creating README files, writing commit messages, and using GitHub Pages and Wikis. Additionally, we’ll explore tools like auto-documentation and provide guidance on documenting with Sphinx. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.</div>
 
 ---
 
@@ -15,7 +15,7 @@ A recording of the live workshop presentation is available on YouTube:
 
 ## Folder Structure
 
-The contents of this pod folder are organized as follows:
+ <div align="justify"> The contents of this pod folder are organized as follows:
 
 - **readme.md**  
   This file contains a brief overview of the workshop, including the title, a description of the workshop's objectives, and an outline of the folder structure.
@@ -37,5 +37,5 @@ The contents of this pod folder are organized as follows:
   - **Deep-Dive Guides**: Optional materials for students who wish to explore the topic in more depth.
 
 - **submissions/**  
-  This folder is where other pods will submit their completed practical exercises after attending the workshop. Pods should submit their work in a folder named after their pod (e.g., `pod-1-submission/`).
+  This folder is where other pods will submit their completed practical exercises after attending the workshop. Pods should submit their work in a folder named after their pod (e.g., `pod-1-submission/`).</div>
 
