@@ -2,15 +2,14 @@
 
 ## Workshop Description
 
-This workshop covers [brief description of the technology/topic]. The goal is to provide an in-depth understanding of [key concepts] and demonstrate practical applications of [tool/technology]. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
+This workshop covers a variety of documentation tools and practices. The goal is to provide an in-depth understanding of the importance of having files that clearly document your code, so others can refactor it and follow installation instructions for any program, software, or code. We will demonstrate practical applications such as creating README files, writing commit messages, and using GitHub Pages and Wikis. Additionally, we’ll explore tools like auto-documentation and provide guidance on documenting with Sphinx. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
 
 ---
 
 ## Workshop Presentation Video
 
 A recording of the live workshop presentation is available on YouTube:  
-[Watch the presentation](#)  
-*(Replace this with the actual link to the workshop presentation video)*
+[Watch the presentation](https://youtu.be/t0Ffknswjc4?si=Rsaib1GrB8kXgq6p)  
 
 ---
 
