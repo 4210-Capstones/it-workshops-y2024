@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. Which is NOT a main part of a GUI program?",
+      "Q2. When was the first GUI created?",
+      "Q3. What was in use before GUIs?",
+      "Q4. What does GUI stand for?"
+    ],
+    "answer": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "options": [
+  
+      ["Frame",
+        "Widgets",
+        "Codes",
+        "Events"
+      ],
+      ["1971",
+        "1972",
+        "1973",
+        "1974"
+      ],
+      ["Command Line Interface",
+        "Touch Interface",
+        "Web Interface",
+        "Application Programming Interface"
+      ],
+      ["General User Interface",
+        "Generic User Information",
+        "Graphical User Interaction",
+        "Graphical User Interface"
+      ]
+    ]
+  }
