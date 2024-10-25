@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. What do you type in your terminal to confirm that you have successfully installed Python??",
+      "Q2. What was NOT one of the reasons why Visual Studio Code was better suited for software engineering than PyCharm?",
+      "Q3. What is the purpose of the Command Palette in Visual Studio Code?",
+      "Q4. How can you install extensions in Visual Studio Code?"
+    ],
+    "answer": [
+      2,
+      4,
+      3,
+      2
+    ],
+    "options": [
+  
+      ["python -version",
+        "py --version",
+        "py --confirm",
+        "python -install"
+      ],
+      ["Customization and Extensions",
+        "Free and Open Source",
+        "Versatile Language Support",
+        "Tailored towards Python"
+      ],
+      ["To browse files in the project",
+        "To run and debug code",
+        "To quickly access commands and settingse",
+        "To switch between open tabs"
+      ],
+      ["Via the Command Palette",
+        "From the Extensions Marketplace",
+        "Using the integrated terminal",
+        "Through GitHub"
+      ]
+    ]
+  }
