@@ -1,16 +1,15 @@
-# [Workshop Title]
+# Containerization Workshop 
 
 ## Workshop Description
 
-This workshop covers [brief description of the technology/topic]. The goal is to provide an in-depth understanding of [key concepts] and demonstrate practical applications of [tool/technology]. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
+This workshop covers Containarization. The goal is to provide an in-depth understanding of containerization and demonstrate practical applications of docker and docker compose. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
 
 ---
 
 ## Workshop Presentation Video
 
 A recording of the live workshop presentation is available on YouTube:  
-[Watch the presentation](#)  
-*(Replace this with the actual link to the workshop presentation video)*
+[Watch the presentation](https://www.youtube.com/watch?v=_Ycmhv8MxsU&t=1777s)
 
 ---
 
