@@ -14,6 +14,9 @@ This folder is designated for the submission of completed practical exercises by
   - **Completed Exercise**: All files related to the practical exercise from the workshop.
   - **README (optional)**: A brief explanation of the submission, if necessary, including how to run or test the solution.
 
+- **Deliverable**
+  - Create a workflow and upload it here!
+
 ### Submission Format:
 
 - Ensure that all submission files are clearly labeled and organized.
