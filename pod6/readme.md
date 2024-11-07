@@ -9,7 +9,7 @@ This workshop covers The concepts of continuous integration, continuous deployme
 ## Workshop Presentation Video
 
 A recording of the live workshop presentation is available on YouTube:  
-[Watch the presentation](#https://www.youtube.com/watch?v=RxzhJSR3rLA&list=PL30Wd5ZPaqMPck20SKcMq-n3XfNmj7nu3&index=12)  
+[Watch the presentation](https://www.youtube.com/watch?v=RxzhJSR3rLA&list=PL30Wd5ZPaqMPck20SKcMq-n3XfNmj7nu3&index=12)  
 
 ---
 
