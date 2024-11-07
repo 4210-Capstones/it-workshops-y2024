@@ -1,16 +1,15 @@
-# [Workshop Title]
+# [CI/CD]
 
 ## Workshop Description
 
-This workshop covers [brief description of the technology/topic]. The goal is to provide an in-depth understanding of [key concepts] and demonstrate practical applications of [tool/technology]. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
+This workshop covers The concepts of continuous integration, continuous deployment, a CI/CD pipeline, and examples of how you can use a CI/CD pipeline within GitHub. The goal is to provide an in-depth understanding of workflows for CI/CD and demonstrate practical applications of Actions within GitHub. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
 
 ---
 
 ## Workshop Presentation Video
 
 A recording of the live workshop presentation is available on YouTube:  
-[Watch the presentation](#)  
-*(Replace this with the actual link to the workshop presentation video)*
+[Watch the presentation](#https://www.youtube.com/watch?v=RxzhJSR3rLA&list=PL30Wd5ZPaqMPck20SKcMq-n3XfNmj7nu3&index=12)  
 
 ---
 
