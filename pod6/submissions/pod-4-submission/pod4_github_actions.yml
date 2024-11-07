@@ -1,0 +1,19 @@
+name: Pod4 GitHub Actions 
+on: 
+  push:
+    branches: ["main"]
+
+  pull_request:
+    branches: ["main"]
+  workflow_dispatch:
+  
+jobs:
+  build:
+      runs-on: ubuntu-latest
+
+      steps:
+        - name: checkout code
+          uses: actions/checkout@v4
+
+        - name: output script
+          run: echo Pod4 In the HOWZ!!!
