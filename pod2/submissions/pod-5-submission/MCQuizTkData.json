@@ -1,0 +1,37 @@
+{
+    "question": [
+      "Q1. What is the name of the camera we will be using?",
+      "Q2. Which Ultraleap SDK will we be using?",
+      "Q3. What is the name of the Lab setup for the class?",
+      "Q4. Which bindings are we using for the Ultraleap?"
+    ],
+    "answer": [
+      4,
+      1,
+      4,
+      4
+    ],
+    "options": [
+  
+      ["JumpHappy Motion Controller",
+        "Ultraman Motion Controller",
+        "MegaLeap Motion Controller",
+        "Ultraleap Motion Controller"
+      ],
+      ["Ultraleap Gemini",
+        "Ultraleap Orion",
+        "Ultraleap Hyperion",
+        "Unity Plugin for Ultraleap"
+      ],
+      ["SWENG Lab",
+        "Software Engineering Lab",
+        "It has no name",
+        "SWAMP Lab"
+      ],
+      ["Java Bindings",
+        "C# Bindings",
+        "Javascript Bindings",
+        "Python Bindings"
+      ]
+    ]
+  }
