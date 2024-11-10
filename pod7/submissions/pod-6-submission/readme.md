@@ -1,4 +1,4 @@
-### Pod 6 Submission
+# Pod 6 Submission
 
 ## Summary
 This submission contains a frontend and a backend that can be hosted in Docker 
@@ -15,7 +15,7 @@ with through localhost:3001)
 4. If frontend Docker container is ran without backend then the message will read
 "An error occurred while fetching data."
 
-# Alternate Instructions 
+## Alternate Instructions 
 To illustrate running containers separately you can follow these instructions
 1. Build both of the containers by heading into their respective directories
 (/frontend & /backend) and using the commands "docker build -t frontend ." and 
