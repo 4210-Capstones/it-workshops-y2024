@@ -8,17 +8,15 @@ Python must be installed and the recommended download is Python 3+ but Python 2.
 
 To install Sphinx, run the following command based on the operating system (OS) used in your command or terminal line.
 
-.. py:function:: pip install -U sphinx
+``.. py:function:: pip install -U sphinx``
 
-   initialises the package installation for Python and other indexes
+This initialises the package installation for Python and other indexes. Sphinx is an auto-document extension for python.
 
-   :sphinx: an auto-document extension for python
-
-For Windows users:
+- For Windows users:
     ``$ pip install -U sphinx``
-For Linux users:
+- For Linux users:
     ``$ apt-get install python3-sphinx``
-For MacOS users:
+- For MacOS users:
     ``$ brew install sphinx-doc``
 
 
@@ -38,8 +36,14 @@ How to Set-Up Environment
     * ``make html``
 * Add additional ``doctree`` by creating new file.rst and place the file name ``index.rst`` file under ``toctree``
 
-.. note::
-    * config.py: includes imports, extensions, project information, 
-    * index.rst: main root page of the documentation
-    * usage.rst: second page of the documentation 
-    * customisation.rst: third page of the documentation
+Notes:
+- ``config.py:`` includes imports, extensions, project information, 
+- ``index.rst:`` main root page of the documentation
+- ``usage.rst:`` second page of the documentation 
+- ``customisation.rst:`` third page of the documentation
+
+## Sphinx Webpage
+
+A webpage of the live autodocumentation Sphinx is available:  
+[Click the Sphinx Webpage](https://actuallyvee.github.io/Sphinx/)  
+
