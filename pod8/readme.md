@@ -26,6 +26,16 @@ A recording of the live workshop presentation is available on YouTube:
 - **slides/**  
   This folder contains the PDF version of the slides used during the workshop presentation. The slides provide an overview of the key concepts, the motivation behind using the technology, and a step-by-step demonstration that includes detaile instructions on how to install and use the technology.
 
+- **workshop/**  
+  This folder contains the primary workshop documentation, including:
+  - **Setup Guide**: Detailed instructions on how to install and use the technology.
+  - **Practical Exercise**: A hands-on exercise or task that participants can follow to apply the concepts learned during the workshop. This should include clear steps and expected outcomes.
+
+- **supplemental/** *(Optional)*  
+  This folder contains optional supplemental content that may include:
+  - **Additional Resources**: Links to tutorials, documentation, or further reading related to the workshop topic.
+  - **Deep-Dive Guides**: Optional materials for students who wish to explore the topic in more depth.
+
 - **submissions/**  
   This folder is where other pods will submit their completed practical exercises after attending the workshop. Pods should submit their work in a folder named after their pod (e.g., `pod-1-submission/`).</div>
 
