@@ -9,7 +9,7 @@
 ## Workshop Presentation Video
 
 A recording of the live workshop presentation is available on YouTube:  
-[Watch the presentation](https://youtu.be/t0Ffknswjc4?si=Rsaib1GrB8kXgq6p)  
+[Watch the presentation](https://youtu.be/t0Ffknswjc4?si=RsrRuE2Tkipxl7ru)  
 
 ---
 
