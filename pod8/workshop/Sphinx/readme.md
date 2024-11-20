@@ -37,7 +37,7 @@ How to Set-Up Environment
 * Add additional ``doctree`` by creating new file.rst and place the file name ``index.rst`` file under ``toctree``
 
 Notes:
-- ``config.py:`` includes imports, extensions, project information, 
+- ``config.py:`` includes imports, extensions, project information
 - ``index.rst:`` main root page of the documentation
 - ``usage.rst:`` second page of the documentation 
 - ``customisation.rst:`` third page of the documentation
