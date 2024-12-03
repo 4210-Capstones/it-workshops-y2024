@@ -2,7 +2,7 @@
 
 ## Workshop Description
 
-This workshop covers [brief description of the technology/topic]. The goal is to provide an in-depth understanding of [key concepts] and demonstrate practical applications of [tool/technology]. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
+This workshop covers Code Quality tools. The goal is to provide an in-depth understanding of quality code and demonstrate practical applications of uses and importance of the Code Quality and the tools that helps in writing the code in quality format. Participants will be guided through a live demonstration and hands-on activities to ensure mastery of the subject matter.
 
 ---
 
