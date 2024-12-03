@@ -9,8 +9,7 @@ This workshop covers Code Quality tools. The goal is to provide an in-depth unde
 ## Workshop Presentation Video
 
 A recording of the live workshop presentation is available on YouTube:  
-[Watch the presentation](#)  
-*(Replace this with the actual link to the workshop presentation video)*
+https://www.youtube.com/watch?v=htRf2_2kXZY&list=PL30Wd5ZPaqMPck20SKcMq-n3XfNmj7nu3&index=6&t=2806s
 
 ---
 
